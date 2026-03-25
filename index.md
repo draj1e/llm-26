@@ -110,7 +110,6 @@ Use of AI coding assistants **is permitted**. However, you should explicitly att
 ### Week 2 N-Gram Language Models
 
 > In this lecture, we introduce the concept of MLE, Smoothing, Perplexity, and Language Modeling basics.
-
 > - **Slides:** <a href="slides/lecture-02-slides/index.html" target="_blank" rel="noopener">Lecture 02 slides</a>
 > - **Readings:**
 >   - <a href="papers/lecture-02-readings-0-JM_Book_Chapter_3.pdf" target="_blank" rel="noopener">JM Book Chapter 3</a>
